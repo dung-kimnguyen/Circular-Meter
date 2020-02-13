@@ -83,3 +83,4 @@ A simple and powerful circular ring slider, written in swift and fully customiza
 -    Distributed under the MIT license. See LICENSE for more information.
 
 # Circular-Meter
+# Circular-Meter
