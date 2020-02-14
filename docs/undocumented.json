@@ -1,0 +1,460 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 18,
+      "symbol": "UITextField.addDoneButtonOnKeyboard()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 32,
+      "symbol": "UITextField.doneButtonAction()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 41,
+      "symbol": "CAGradientLayer.removeIfAdded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 52,
+      "symbol": "CAShapeLayer.setBorder(color:borderWidth:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 57,
+      "symbol": "CAShapeLayer.setShadow(color:opacity:offset:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 64,
+      "symbol": "CAShapeLayer.removeIfAdded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 75,
+      "symbol": "UIView.setShadow(color:opacity:offset:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 82,
+      "symbol": "UIView.getGradientLayerOf(frame:colors:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 90,
+      "symbol": "UIView.removeIfAdded()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 101,
+      "symbol": "Int.toCGFloat()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 109,
+      "symbol": "BinaryInteger.toRadians",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 114,
+      "symbol": "FloatingPoint.toRadians",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/Extentions.swift",
+      "line": 115,
+      "symbol": "FloatingPoint.toDegree",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": null,
+      "symbol": "SSCircularRingMeter",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 11,
+      "symbol": "SSCircularRingMeterDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 12,
+      "symbol": "SSCircularRingMeterDelegate.controlValueUpdated(value:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 15,
+      "symbol": "SSCircularRingMeter",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 19,
+      "symbol": "SSCircularRingMeter.startAngle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 20,
+      "symbol": "SSCircularRingMeter.endAngle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 21,
+      "symbol": "SSCircularRingMeter.minValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 22,
+      "symbol": "SSCircularRingMeter.maxValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 23,
+      "symbol": "SSCircularRingMeter.initialValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 31,
+      "symbol": "SSCircularRingMeter.outerRingWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 32,
+      "symbol": "SSCircularRingMeter.innerRingWidth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 33,
+      "symbol": "SSCircularRingMeter.knonbImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 34,
+      "symbol": "SSCircularRingMeter.startPointImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 35,
+      "symbol": "SSCircularRingMeter.endPointImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 36,
+      "symbol": "SSCircularRingMeter.labelFont",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 37,
+      "symbol": "SSCircularRingMeter.gradientColors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 44,
+      "symbol": "SSCircularRingMeter.shouldAddEndPoints",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 45,
+      "symbol": "SSCircularRingMeter.shouldShowKnob",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 46,
+      "symbol": "SSCircularRingMeter.knobSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 47,
+      "symbol": "SSCircularRingMeter.shouldAddTextLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 48,
+      "symbol": "SSCircularRingMeter.extraOffsetOfRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 49,
+      "symbol": "SSCircularRingMeter.arrLabelValues",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 50,
+      "symbol": "SSCircularRingMeter.currentIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 51,
+      "symbol": "SSCircularRingMeter.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 55,
+      "symbol": "SSCircularRingMeter.midViewX",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 56,
+      "symbol": "SSCircularRingMeter.midViewY",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 58,
+      "symbol": "SSCircularRingMeter.innerCircularRing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 59,
+      "symbol": "SSCircularRingMeter.outerCircularRing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 61,
+      "symbol": "SSCircularRingMeter.knobImageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 62,
+      "symbol": "SSCircularRingMeter.startPointButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 63,
+      "symbol": "SSCircularRingMeter.endPointButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 65,
+      "symbol": "SSCircularRingMeter.innerRingShape",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 66,
+      "symbol": "SSCircularRingMeter.outerRingShape",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 67,
+      "symbol": "SSCircularRingMeter.txtValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 78,
+      "symbol": "SSCircularRingMeter.startAngleRadian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 79,
+      "symbol": "SSCircularRingMeter.endAngleRadian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 80,
+      "symbol": "SSCircularRingMeter.knobStartingAngleRadian",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 81,
+      "symbol": "SSCircularRingMeter.valueRange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 82,
+      "symbol": "SSCircularRingMeter.angleRange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 83,
+      "symbol": "SSCircularRingMeter.valuePerAngle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 84,
+      "symbol": "SSCircularRingMeter.anglePerValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 85,
+      "symbol": "SSCircularRingMeter.currentValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 87,
+      "symbol": "SSCircularRingMeter.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 88,
+      "symbol": "SSCircularRingMeter.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 89,
+      "symbol": "SSCircularRingMeter.centerPoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 90,
+      "symbol": "SSCircularRingMeter.circularRingRadius",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 91,
+      "symbol": "SSCircularRingMeter.gradientLayer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 93,
+      "symbol": "SSCircularRingMeter.innerCircleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 94,
+      "symbol": "SSCircularRingMeter.outerCircleColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 96,
+      "symbol": "SSCircularRingMeter.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 103,
+      "symbol": "SSCircularRingMeter.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ketan.chopda/SSCircularMeter/SSCircularMeter/SSCircularRingMeter/SSCircularRingMeter.swift",
+      "line": 107,
+      "symbol": "SSCircularRingMeter.init(frame:startAngle:endAngle:initialValue:minValue:maxValue:outerRingWidth:innerRingWidth:shouldAddEndPoints:knobImageName:startPointImageName:endPointImageName:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ketan.chopda"
+}
