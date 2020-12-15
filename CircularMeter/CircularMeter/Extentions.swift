@@ -2,8 +2,8 @@
 //  Extentions.swift
 //  SSCircularMeter
 //
-//  Created by James Lee on 02/10/18.
-//  Copyright © 2018 James Lee. All rights reserved.
+//  Created by Nocero Beguhe on 02/10/18.
+//  Copyright © 2018 Nocero Beguhe. All rights reserved.
 //
 
 import Foundation
